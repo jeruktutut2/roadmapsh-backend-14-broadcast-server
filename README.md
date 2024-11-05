@@ -1,5 +1,5 @@
-# 
-In this project, create a broadcast server app with authentication and authorization  
+# Broadcast Server
+In this project, create a broadcast server app  
 
 ## roadmap.sh
 This project is based on https://roadmap.sh/projects/broadcast-server  
@@ -14,7 +14,6 @@ This project is based on https://roadmap.sh/projects/broadcast-server
 ```go get github.com/google/uuid```
 
 ## run project
-To run this project, just download the project, go to downloaded project and run it by typing ```go run main.go``` and press enter
-access it through browser with ```http://localhost:8080/todos```
+To run this project, just download the project, then you will find folder server and client, ```go run main.go``` in server and client folders to run those app. You can see the result through terminal
 
 ```happy koding and thank you :D```
